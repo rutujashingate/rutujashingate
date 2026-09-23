@@ -26,10 +26,11 @@ I also write about **AI, software engineering, tools, things I'm learning, and e
 📝 **Substack:** [tinyydetails](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)
 
 ## Let's connect
+💼 LinkedIn: [linkedin.com/in/rutujashingate](https://www.linkedin.com/in/rutujashingate/) 
 
-💼 LinkedIn: linkedin.com/in/rutujashingate 
-𝕏 X: @Rutujashingate  
-🌐 Portfolio: rutuja.fyi
+𝕏 X: [@Rutujashingate](https://x.com/Rutujashingate)  
+
+🌐 Portfolio: [rutuja.fyi](https://rutuja.fyi)
 
 
 Always happy to connect with people building interesting things in **AI, software, developer tools, and early-stage products**.
