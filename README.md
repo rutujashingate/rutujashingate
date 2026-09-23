@@ -27,10 +27,18 @@ I also write about **AI, software engineering, tools, things I'm learning, and e
 
 ## Let's connect
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin)](https://www.linkedin.com/in/rutujashingate/) **[LinkedIn](https://www.linkedin.com/in/rutujashingate/)**
-
-[![X](https://cdn.simpleicons.org/x)](https://x.com/Rutujashingate) **[X](https://x.com/Rutujashingate)**
-
-[![Substack](https://cdn.simpleicons.org/substack)](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page) **[Substack](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)**
+<p>
+  <a href="https://www.linkedin.com/in/rutujashingate/">
+    <img src="https://cdn.simpleicons.org/linkedin" width="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Rutujashingate">
+    <img src="https://cdn.simpleicons.org/x" width="28" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page">
+    <img src="https://cdn.simpleicons.org/substack" width="28" alt="Substack" />
+  </a>
+</p>
 
 Always happy to connect with people building interesting things in **AI, software, developer tools, and early-stage products**.
