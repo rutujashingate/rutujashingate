@@ -23,12 +23,12 @@ I like experimenting, shipping, breaking things, understanding why they broke, a
 
 I also write about **AI, software engineering, tools, things I'm learning, and experiments I'm building**.
 
-📝 **Substack:** [Tiny Details](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)
+📝 **Substack:** [tinyydetails](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)
 
 ## Let's connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/rutujashingate](https://www.linkedin.com/in/rutujashingate/)
-- 𝕏 **X:** [@Rutujashingate](https://x.com/Rutujashingate)
+- 𝕏 :** [@Rutujashingate](https://x.com/Rutujashingate)
 - ✍️ **Substack:** [@tinyydetails](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)
 
 Always happy to connect with people building interesting things in **AI, software, developer tools, and early-stage products**.
