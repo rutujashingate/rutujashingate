@@ -27,11 +27,9 @@ I also write about **AI, software engineering, tools, things I'm learning, and e
 
 ## Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/rutujashingate/)
-
-𝕏 [X](https://x.com/Rutujashingate)
-
-🌐 [Portfolio](https://rutuja.fyi)
+💼 LinkedIn: linkedin.com/in/rutujashingate 
+𝕏 X: @Rutujashingate  
+🌐 Portfolio: rutuja.fyi
 
 
 Always happy to connect with people building interesting things in **AI, software, developer tools, and early-stage products**.
