@@ -27,8 +27,10 @@ I also write about **AI, software engineering, tools, things I'm learning, and e
 
 ## Let's connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/rutujashingate](https://www.linkedin.com/in/rutujashingate/)
-- 𝕏 :** [@Rutujashingate](https://x.com/Rutujashingate)
-- ✍️ **Substack:** [@tinyydetails](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin)](https://www.linkedin.com/in/rutujashingate/) **[LinkedIn](https://www.linkedin.com/in/rutujashingate/)**
+
+[![X](https://cdn.simpleicons.org/x)](https://x.com/Rutujashingate) **[X](https://x.com/Rutujashingate)**
+
+[![Substack](https://cdn.simpleicons.org/substack)](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page) **[Substack](https://substack.com/@tinyydetails?r=8bqj9r&utm_campaign=profile&utm_medium=profile-page)**
 
 Always happy to connect with people building interesting things in **AI, software, developer tools, and early-stage products**.
